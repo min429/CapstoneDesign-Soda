@@ -85,7 +85,7 @@
 <!--        android:minLines="3"-->
         <Button
             android:id="@+id/save_button"
-            android:background="@drawable/check_button"
+            android:background="@drawable/left_check_button"
             android:layout_width="136dp"
             android:layout_height="44dp"
             android:layout_gravity="center"

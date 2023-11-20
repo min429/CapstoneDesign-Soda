@@ -34,7 +34,7 @@
 
         <Button
             android:id="@+id/check_button"
-            android:background="@drawable/check_button"
+            android:background="@drawable/left_check_button"
             android:layout_width="0dp"
             android:layout_height="40dp"
             android:layout_weight="1"
